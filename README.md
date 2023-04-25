@@ -1,3 +1,3 @@
-# ML-Final-Project
+# RPI Men’s Lacrosse Game Performance Prediction -Devon Boyko
 
-This project uses data from the 2022-2023 RPI Men's Lacrosse team. The data was collected using Polar heart monitors. The goal of this project is to predict performance based on data from practices and games.
+This project uses data from the 2022-2023 RPI Men's Lacrosse team. The data was collected using Polar heart monitors and the Polar Team Pro System. The goal of this project is to create a model to predict performance in games based on multiple types of data from the days leading up to a game to be able to optimally prepare for games. Updated data can be downloaded from the Polar Team website, but the data used in the project is attached. The code used to analyze the data is also attached. Once the data is imported, the code can be run straight through and will provide the desired outputs.
